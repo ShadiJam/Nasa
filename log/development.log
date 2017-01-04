@@ -66,3 +66,17 @@ Processing by NasaPictureController#index as HTML
 Completed 200 OK in 715ms (Views: 250.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-01-04 14:25:08 -0600
+Processing by NasaPictureController#index as HTML
+  Rendering nasa_picture/index.html.erb within layouts/application
+  Rendered nasa_picture/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 2321ms (Views: 306.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-04 14:26:03 -0600
+Processing by NasaPictureController#index as HTML
+  Rendering nasa_picture/index.html.erb within layouts/application
+  Rendered nasa_picture/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 352ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
