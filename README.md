@@ -1,24 +1,6 @@
-# README
+# Nasa API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* A practice run of using external APIs in Ruby 5.0.1. Link below to get started yourself!
 
-Things you may want to cover:
+https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
